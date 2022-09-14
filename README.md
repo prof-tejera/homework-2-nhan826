@@ -1,3 +1,12 @@
+# 
+Nathanael Han
+
+My URL : https://prof-tejera.github.io/homework-2-nhan826/
+
+Code Editor: VS code
+
+
+
 # Homework 2 - Dev Setup and Deployment
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
